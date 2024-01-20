@@ -1,1 +1,1 @@
-rootProject.name = "PluginName"
+rootProject.name = "Velocity1029Test"
